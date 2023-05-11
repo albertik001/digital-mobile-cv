@@ -1,76 +1,68 @@
-# Syimyk Mitalipov
+# Albert Zhumaev
 
-_Software Front-end engineer from Kyrgyzstan, Bishkek  🇰🇬_ <br>
+_Android Developer from Kyrgyzstan, Bishkek  🇰🇬_ <br>
 
-[Email](mailto:syimyk310703@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/syimyk-mitalipov-67a327223/) / [GitHub](https://github.com/SyimykMitalipov/) / [Telegram](https://t.me/syimyk_mitalipov)
+[Email](mailto:albert.nurlanovv@icloud.com) / [LinkedIn](https://www.linkedin.com/in/albert-zhumaev/) / [GitHub](https://github.com/albertik001/) / [Telegram](https://t.me/albert6_3)
 
-Hello! I am a front-end developer with 1.7 years of experience specializing in web application development using **_React, Redux, MUI, TypeScript, Webpack, babel, Redux-toolkit and Next.js._**
+Hello! I am an Android developer with less than a year of experience in creating and maintaining mobile applications for the Android operating system. My focus is to use the most modern methods, as well as writing optimized code. I am proactive, creative, and enthusiastic with strong networking and communication skills.
 
-During this time, I gained experience in designing UI components, writing code to manage application state, interacting with the server side of an application, and optimizing application performance. I have worked with **_Redux_** tools like **_Redux-thunk_** and **_Redux-saga_** as well as **_Redux-toolkit_** for faster and more efficient development.
+Throughout my journey, I have gained experience in working with design patterns, team leadership, and essential soft and hard skills. My technical proficiencies include Kotlin, Java, Git & GitFlow, Gradle, Kotlin DSL (including buildSrc, Modularization), MVVM, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, OkHttp, Basic Firebase, Paging3, Room, Glide, Coil, Picasso, Serializable, Parcelable, Navigation Component, ViewBinding, MaterialDesign, and ConstraintLayout.
 
-I'm also familiar with responsive design principles and using the **_MUI_** library to simplify user interface development. In addition, I have experience with **_TypeScript_**, which allows me to write more secure and maintainable code.
+## 💼 Engineering Experience
 
-I am familiar with web application build tools such as Webpack and Babel and have experience with **_Next.js_** to build server-rendered applications.
-
-I am always striving for self-improvement and improvement of my skills, so I try to learn new technologies and tools. I work well in a team and I am ready to share my knowledge and experience with other developers so that we can create high-quality and efficient code together.
-## 👩🏼‍💻 Engineering Experience
-
-**Frontend Engineer** @ [GeekStudio](https://www.geekstudio.kg/) _(February 2022 - Present)_ <br>
-A local company that deals with outstaff projects. Automation and business improvement.
-  - Creation of commercial projects and products to order from scratch, creation of new products to increase business.
-  - Working with the latest technologies, building architecture and project structure from scratch for a web application
-  - Building of architecture for web applications and code optimization.
-  - **_Technologies used:_** **_React, TypeScript, Redux, Redux-Toolkit, HTML, CSS, Sass, Storybook, REST, Material UI, Webpack, EsLint._**
+**Android Developer Junior** @ [GeekStudio](https://www.geekstudio.kg/) _(August 2022 - Present)_ <br>
+Working on various projects including:
+  - Redeveloping a startup from scratch.
+  - Working as part of a complete team.
+  - Redeveloping a legacy project.
+  - Supporting a legacy project by implementing new features & fixing bugs.
 <br><br>
 
-**Frontend Engineer** @ [TezSat](https://tezsat.kg/) _(September 2021 - February 2022)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Creating a business profile for the marketplace, updating the old functionality, introducing new features for the convenience of users.
-  - Building real-time chats for marketplace with **_WebSockets(using react-use-websockets)_** 
-  - Integration with UX-UI designers, Backend(Python,Django), Android developers(Java,Kotlin), IOS(Swift)
-  - Worked according to the **_Scrum, Agile methodology: Jira, Slack, Trello_**
-  - **_Technologies used:_** **_HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Redux thunk, FireBase Next.js, REST, Material UI, Webpack, EsLint_**.
-  <br><br>
-
-## 📌 Volunteering
-
- **Mentoring for students** @ [Write the Doc](https://www.instagram.com/p/Cefby7UtNib/) _(March 2022 - Present)_<br>
-Mentoring for students. Studying front-end development. **_React, Redux, HTML, CSS_**Creating projects with mentii
-  - Passage of open lessons for students on Front-end development
-  <br><br>
-
- **Volunteer lessons for students on the basics of programming** @ [Volunteer lessons school 102](https://www.instagram.com/p/CoKmEB6gctW/) _(December 2022 - Present)_<br>
-  - Conducting lessons for elementary grades on the basics of programming. I use sites such as: (https://hourofcode.com/ru/learn/), Minecraft
-  - Conducted lessons on the basics of computer literacy for school teachers
-  - Explanation using platforms like: **_Kahoot, Quizlet, Miro_**
-  <br><br>
-
-
-## 🏆 Accomplishments
-
- **Azamat medale** @ [Active participation in the life of the university and for the mentoring of students](https://www.instagram.com/it.ksla/) _(September 2022)_ <br>
-
-
-**Thank you letter from the university** @ [For mentoring students]_(January, 2023)_ <br>
-thank you letter from the university
-  - Helped students master the basics of **_JS, React, Redux, HTML,CSS._**
-  - He actively helped in the development of mentoring programs at the university.
-  - Participated in open projects to help students learn.
-  - Participated in the creation of the curriculum for students.
+**Android Engineer** @ [IT Education Center GeekTech](https://geektech.kg/) _(November 2021 - July 2022)_ <br>
+Developed Android applications using modern tools and technologies. Gained experience in team collaboration and working on complex projects.
 <br><br>
 
+**Android Mentor** @ [GeekTech](https://geektech.kg/) _(May 2022 - August 2022)_ <br>
+Responsibilities included:
+  - Conducting lessons in the absence of the main teacher.
+  - Teaching the basics of Android development.
+  - Senior team leader for all students' graduation projects.
+<br><br>
 
-## 💬 Languages
+## 🏆 Awards
 
-🇰🇬 **Kyrgyz**: Native speaker <br>
-🇺🇸 **English**: B1 <br>
-🇷🇺 **Russian**: C1
+**Two-time Best Android Mentor** @ [GeekTech](https://geektech.kg/) _(2022)_ <br>
+Recognized for my commitment and dedication in mentoring Android development.
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
-**Geeks** focused on Front-end JavaScript<br>
-[SPICED Academy](https://geektech.kg/) - Bishkek, Kyrgyzstan _(Apr 2021 - September 2021)_ <br>
+**Bachelors degree** in Data Science<br>
+[Kyrgyz State Technical University named after I.Razzakov](https://kstu.kg/) - Bishkek, Kyrgyzstan _(September 2021 - Present)_ <br>
 
-**Bachelors degree** in Computer Science<br>
-[Kyrgyz National University, IT](https://www.knu.kg/ky/) - Bishkek, Gorkogo 17, _(2020 - 2024)_
+## 📌 Core Competencies
+
+- **Strong Networking and Communication Skills**: I have excellent interpersonal skills that allow me to network effectively and communicate with a variety of stakeholders and audiences.
+
+- **Proactive and Enthusiastic**: I am a driven professional who takes initiative in tasks and projects. I am also enthusiastic about my work and constantly seeking ways to improve.
+
+- **Team Leadership and Teamwork**: I have proven experience in leading teams and working effectively as part of a team. I value collaboration and understand the importance of a cooperative work environment.
+
+- **Good Soft and Hard Skills**: I have a good balance of soft and hard skills that make me an effective professional. My soft skills include problem-solving, communication, and leadership, while my hard skills are centered around my technical proficiency in Android development.
+
+- **Experience Working with Patterns**: I have experience working with various design and development patterns in the context of Android development.
+
+## 💬 Languages
+
+🇷🇺 **Russian**: Native speaker <br>
+🇬🇧 **English**: B2 (Assumed based on the proficiency of communication) <br>
+
+## 📫 Contact Info
+
+- **Email**: [albert.nurlanovv@icloud.com](mailto:albert.nurlanovv@icloud.com)
+- **Telegram**: [@albert6_3](https://t.me/albert6_3)
+- **Address**: Kyrgyzstan, Bishkek
+- **GitHub**: [@albertik001](https://github.com/albertik001/)
+- **LinkedIn**: [Albert Zhumaev](https://www.linkedin.com/in/albert-zhumaev/)
+
+Note: Please replace the placeholders in the language section with your actual language skills.
