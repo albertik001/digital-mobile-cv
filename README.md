@@ -57,12 +57,4 @@ Recognized for my commitment and dedication in mentoring Android development.
 🇷🇺 **Russian**: Native speaker <br>
 🇬🇧 **English**: B2 (Assumed based on the proficiency of communication) <br>
 
-## 📫 Contact Info
-
-- **Email**: [albert.nurlanovv@icloud.com](mailto:albert.nurlanovv@icloud.com)
-- **Telegram**: [@albert6_3](https://t.me/albert6_3)
-- **Address**: Kyrgyzstan, Bishkek
-- **GitHub**: [@albertik001](https://github.com/albertik001/)
-- **LinkedIn**: [Albert Zhumaev](https://www.linkedin.com/in/albert-zhumaev/)
-
 Note: Please replace the placeholders in the language section with your actual language skills.
