@@ -11,6 +11,7 @@ In my one-year tenure, I have had the opportunity to successfully complete and r
 Throughout my journey, I have gained experience in working with design patterns, team leadership, and essential soft and hard skills. My technical proficiencies include :
 - **Kotlin Java**
 - **Android SDK**
+- **Kotlin Coroutines**
 - **OOP**
 - **Dokka (HTML-Based, Markdown-Based)**
 - **Git & GitFlow**
