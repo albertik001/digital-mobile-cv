@@ -4,7 +4,9 @@ _Android Developer and Assistant Team Lead from Kyrgyzstan, Bishkek  🇰🇬_ <
 
 [Email](mailto:albert.nurlanovv@mail.ru) / [LinkedIn](https://www.linkedin.com/in/albert-zhumaev/) / [GitHub](https://github.com/albertik001/) / [Telegram](https://t.me/albert6_3)
 
-Hello! I am an Android developer with less than a year of experience in creating and maintaining mobile applications for the Android operating system. My focus is to use the most modern methods, as well as writing optimized code. I am proactive, creative, and enthusiastic with strong networking and communication skills. Additionally, I've recently taken on the role of Assistant Team Lead, where I've been developing and implementing complex functional features, creating technical documentation, and mentoring junior team members.
+Hello! I am an accomplished Android developer known for creating and maintaining robust mobile applications for the Android operating system. My approach centers on the utilization of contemporary methodologies, as well as producing highly optimized code. I am recognized for being proactive, creative, and enthusiastic, coupled with strong networking and communication skills. Recently, I've also taken on the role of Assistant Team Lead at GeekStudio, where my responsibilities have expanded to include the development and implementation of intricate functional features, creation of technical documentation, and mentorship for junior team members.
+
+In my one-year tenure, I have had the opportunity to successfully complete and release two significant projects, namely 'TezSat' and 'Karyshkyr'. These experiences have further solidified my skills and understanding of end-to-end project execution within the Android development landscape.
 
 Throughout my journey, I have gained experience in working with design patterns, team leadership, and essential soft and hard skills. My technical proficiencies include :
 - **Kotlin Java**
