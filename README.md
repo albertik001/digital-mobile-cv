@@ -44,7 +44,7 @@ Throughout my journey, I have gained experience in working with design patterns,
   - **Mentoring and guiding interns in their work, as well as providing assistance in resolving issues.**
   - **_Technologies used:_** **_Kotlin, Java, XML, MVVM, , Gradle, Kotlin DSL (including Version Catalog), Modularization, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, MaterialDesign,  Navigation Component_**.
 
-##### 🏆 Special Achievement
+#### 🏆 Special Achievement
 TezSat Project - Product Submission Module Optimization
 
 In the TezSat project, I achieved notable optimizations in the product submission and editing module:
