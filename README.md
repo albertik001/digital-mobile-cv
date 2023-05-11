@@ -1,54 +1,82 @@
 # Albert Zhumaev
 
-_Strong Junior Android Developer and Assistant Team Lead from Kyrgyzstan, Bishkek  🇰🇬_ <br>
+_Android Developer and Assistant Team Lead from Kyrgyzstan, Bishkek  🇰🇬_ <br>
 
-[Email](mailto:albert.nurlanovv@icloud.com) / [LinkedIn](https://www.linkedin.com/in/albert-zhumaev/) / [GitHub](https://github.com/albertik001/) / [Telegram](https://t.me/albert6_3)
+[Email](mailto:albert.nurlanovv@mail.ru) / [LinkedIn](https://www.linkedin.com/in/albert-zhumaev/) / [GitHub](https://github.com/albertik001/) / [Telegram](https://t.me/albert6_3)
 
 Hello! I am an Android developer with less than a year of experience in creating and maintaining mobile applications for the Android operating system. My focus is to use the most modern methods, as well as writing optimized code. I am proactive, creative, and enthusiastic with strong networking and communication skills. Additionally, I've recently taken on the role of Assistant Team Lead, where I've been developing and implementing complex functional features, creating technical documentation, and mentoring junior team members.
 
-Throughout my journey, I have gained experience in working with design patterns, team leadership, and essential soft and hard skills. My technical proficiencies include Kotlin, Java, Git & GitFlow, Gradle, Kotlin DSL (including buildSrc, Modularization), MVVM, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, OkHttp, Basic Firebase, Paging3, Room, Glide, Coil, Picasso, Serializable, Parcelable, Navigation Component, ViewBinding, MaterialDesign, and ConstraintLayout.
+Throughout my journey, I have gained experience in working with design patterns, team leadership, and essential soft and hard skills. My technical proficiencies include :
+- **Kotlin Java**
+- **Android SDK**
+- **OOP**
+- **Dokka (HTML-Based, Markdown-Based)**
+- **Git & GitFlow**
+- **Gradle, Kotlin DSL (including buildSrc and Version Catalog)**
+- **Modularization**
+- **MVVM, MVP**
+- **Clean Architecture**
+- **Dagger-Hilt, Koin** 
+- **Retrofit2, OkHttp**
+- **OAuth 2.0, Basic Firebase** 
+- **Paging3**
+- **Room**
+- **Glide, Coil, Picasso**
+- **Serializable, Parcelable**
+- **Navigation Component**
+- **ViewBinding, ViewBindingPropertyDelegate**
+- **MaterialDesign**
 
 ## 💼 Engineering Experience
 
-**Assistant Team Lead** @ [GeekStudio](https://www.geekstudio.kg/) _(March 2023 - Present)_ <br>
-Key responsibilities include:
-  - Developing and implementing complex functional features.
-  - Creating technical documentation and instructions.
-  - Participating in regular performance and productivity reviews.
-  - Analyzing previous work cycles and evaluating results.
-  - Creating and improving competence matrix for interns and new employees.
-  - Checking and monitoring the completion of technical tasks.
-  - Conducting regular code audits and assessments of code written by interns.
-  - Conducting technical interviews and evaluating the qualifications of candidates.
-  - Mentoring and guiding interns in their work, as well as providing assistance in resolving issues.
+**Assistant Team Lead** @ [GeekStudio](https://www.geekstudio.kg/) _(August 2022 - Present)_ <br>
+ Key responsibilities include:
+  - **Developing and implementing complex functional features.**
+  - **Creating technical documentation and instructions.**
+  - **Participating in regular performance and productivity reviews.**
+  - **Analyzing previous work cycles and evaluating results.**
+  - **Creating and improving competence matrix for interns and new employees.**
+  - **Checking and monitoring the completion of technical tasks.**
+  - **Conducting regular code audits and assessments of code written by interns.**
+  - **Conducting technical interviews and evaluating the qualifications of candidates.**
+  - **Mentoring and guiding interns in their work, as well as providing assistance in resolving issues.**
+  - **_Technologies used:_** **_Kotlin, Java, XML, MVVM, , Gradle, Kotlin DSL (including Version Catalog), Modularization, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, MaterialDesign,  Navigation Component_**.
+
+##### 🏆 Special Achievement
+TezSat Project - Product Submission Module Optimization
+
+In the TezSat project, I achieved notable optimizations in the product submission and editing module:
+
+Activity Reduction: Eliminated the need for two separate activities, simplifying the application's navigation.
+
+Asynchronous Photo Upload: Implemented asynchronous requests for photo uploading, enhancing user experience.
+
+Error Handling & Documentation: Built a robust error handling system and provided comprehensive documentation, improving application reliability and maintainability.
+
+Project Cleanup: Executed a project cleanup, reducing the APK size by 20%, leading to quicker downloads and more efficient storage use.
+
+This initiative significantly boosted the app's performance, user experience, and scalability.
 <br><br>
 
-**Android Developer Junior** @ [GeekStudio](https://www.geekstudio.kg/) _(August 2022 - Present)_ <br>
-Working on various projects including:
-  - Redeveloping a startup from scratch.
-  - Working as part of a complete team.
-  - Redeveloping a legacy project.
-  - Supporting a legacy project by implementing new features & fixing bugs.
-<br><br>
-
-**Android Engineer** @ [IT Education Center GeekTech](https://geektech.kg/) _(November 2021 - July 2022)_ <br>
-Developed Android applications using modern tools and technologies. Gained experience in team collaboration and working on complex projects.
-<br><br>
-
-**Android Mentor** @ [GeekTech](https://geektech.kg/) _(May 2022 - August 2022)_ <br>
+**Android Mentor** @ [GeekTech](https://geektech.kg/) _(December 2021 - August 2022)_ <br>
 Responsibilities included:
-  - Conducting lessons in the absence of the main teacher.
-  - Teaching the basics of Android development.
-  - Senior team leader for all students' graduation projects.
+  - **Conducting lessons in the absence of the main teacher.**
+  - **Teaching the basics of Android development.**
+  - **Assistance to students in their studies**
+  - **Senior team leader for all students' graduation projects.**
 <br><br>
 
 ## 🏆 Awards
 
-**Two-time Best Android Mentor** @ [GeekTech](https://geektech.kg/) _(2022)_ <br>
+**Two-time Best Android Mentor** @ [Geeks](https://geeks.edu.kg/) _(2022)_ <br>
 Recognized for my commitment and dedication in mentoring Android development.
 <br><br>
 
 ## 👩🏼‍🎓 Education
+
+**Android Engineer** @ [IT Education Center Geeks](https://geeks.edu.kg/)) _(November 2021 - July 2022)_ <br>
+Developed Android applications using modern tools and technologies. Gained experience in team collaboration and working on complex projects.
+<br><br>
 
 **Bachelors degree** in Data Science<br>
 [Kyrgyz State Technical University named after I.Razzakov](https://kstu.kg/) - Bishkek,
@@ -69,6 +97,4 @@ Kyrgyzstan _(September 2021 - Present)_ <br>
 ## 💬 Languages
 
 🇷🇺 **Russian**: Native speaker <br>
-🇬🇧 **English**: B2 (Assumed based on the proficiency of communication) <br>
-
-Note: Please replace the placeholders in the language section with your actual language skills.
+🇬🇧 **English**: A1 <br>
