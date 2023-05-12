@@ -32,42 +32,56 @@ Throughout my journey, I have gained experience in working with design patterns,
 
 ## 💼 Engineering Experience
 
-**Assistant Team Lead** @ [GeekStudio](https://www.geekstudio.kg/) _(August 2022 - Present)_ <br>
- Key responsibilities include:
-  - **Developing and implementing complex functional features.**
-  - **Creating technical documentation and instructions.**
-  - **Participating in regular performance and productivity reviews.**
-  - **Analyzing previous work cycles and evaluating results.**
-  - **Creating and improving competence matrix for interns and new employees.**
-  - **Checking and monitoring the completion of technical tasks.**
-  - **Conducting regular code audits and assessments of code written by interns.**
-  - **Conducting technical interviews and evaluating the qualifications of candidates.**
-  - **Mentoring and guiding interns in their work, as well as providing assistance in resolving issues.**
-  - **_Technologies used:_** **_Kotlin, Java, XML, MVVM, , Gradle, Kotlin DSL (including Version Catalog), Modularization, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, MaterialDesign,  Navigation Component_**.
+**Assistant Team Lead** @ [GeekStudio](https://www.geekstudio.kg/) _(June 2022 - Present)_ <br>
+Promoted to Assistant Team Lead in March 2023, I have assumed additional responsibilities while continuing to contribute as a key member of the team. My role includes:
 
-#### 🏆 Special Achievement
-TezSat Project - Product Submission Module Optimization
+- *Leading the development and implementation of complex functional features.*
+- *Creating and maintaining technical documentation and instructions.*
+- *Participating in regular performance and productivity reviews to ensure project success.*
+- *Analyzing previous work cycles and evaluating results to drive continuous improvement.*
+- *Developing and improving the competence matrix for interns and new employees.*
+- *Overseeing the completion of technical tasks and monitoring their quality.*
+- *Conducting regular code audits and assessments to maintain code quality standards.*
+- *Conducting technical interviews and evaluating the qualifications of candidates to build a skilled team.*
+- *Mentoring and guiding interns in their work, providing support to resolve challenges and promote growth.*
 
-In the TezSat project, I achieved notable optimizations in the product submission and editing module:
+Technologies used: **Kotlin, Java, XML, MVVM, Gradle, Kotlin DSL (including Version Catalog), Modularization, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, MaterialDesign, Navigation Component**.
 
-Activity Reduction: Eliminated the need for two separate activities, simplifying the application's navigation.
+**Key Project: [TezSat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)**
 
-Asynchronous Photo Upload: Implemented asynchronous requests for photo uploading, enhancing user experience.
+In my role at [GeekStudio](https://www.geekstudio.kg/), I made substantial contributions to the TezSat project, implementing several key improvements:
 
-Error Handling & Documentation: Built a robust error handling system and provided comprehensive documentation, improving application reliability and maintainability.
+- **Activity Streamlining**: I utilized a modular approach and MainFlowFragment to merge two separate activities into one, significantly simplifying the application's navigation.
+- **Asynchronous Photo Upload**: Leveraged the power of Coroutines Await to implement asynchronous photo upload requests, enhancing the user experience with more responsive interactions.
+- **Error Handling & Documentation**: Established a robust error handling system, and developed comprehensive documentation using Dokka Kdoc, increasing application reliability and maintainability.
+- **Project Cleanup**: Executed a project cleanup that reduced the APK size by 20%, leading to quicker downloads and more efficient storage use.
 
-Project Cleanup: Executed a project cleanup, reducing the APK size by 20%, leading to quicker downloads and more efficient storage use.
+These initiatives substantially improved the app's performance, user experience, and scalability, demonstrating my ability to drive impactful enhancements in complex projects.
 
-This initiative significantly boosted the app's performance, user experience, and scalability.
-<br><br>
+**[Karyshkyr](https://play.google.com/store/apps/details?id=com.geekstudio.karyshkyr)** is a mobile application that I developed from scratch, single-handedly, before its release on the Play Store. It features a collection of popular phrases and slang in the Kyrgyz language.
 
-**Android Mentor** @ [GeekTech](https://geektech.kg/) _(December 2021 - August 2022)_ <br>
-Responsibilities included:
-  - **Conducting lessons in the absence of the main teacher.**
-  - **Teaching the basics of Android development.**
-  - **Assistance to students in their studies**
-  - **Senior team leader for all students' graduation projects.**
-<br><br>
+During the development of the Karyshkyr app, I utilized the following technologies and approaches:
+
+1. **Individual Development**: I worked on the project solo, from inception to release on the Play Store. This allowed me to have complete control over the development process and ensure a high-quality app.
+
+2. **Room DB Integration**: To store user-selected favorite words, I implemented Room DB, a powerful tool for working with an internal app database. This enabled users to save and manage their preferences effectively.
+
+3. **Simplified Authentication**: Instead of complex login procedures, I decided not to require user login considering the small size and nature of the application.
+
+4. **Dependency Injection with Hilt**: I incorporated Hilt, a dependency injection tool, to simplify dependency management and provide flexibility during app development and maintenance.
+
+5. **Redesigned UI**: In one of the updates, I completely reimagined the app's design, rewriting it from scratch. This enhanced the visual experience for users and made the app more modern and appealing.
+
+These approaches and technologies employed in developing the Karyshkyr app resulted in a unique and functional application, capable of meeting user needs and delivering a seamless user experience.
+
+**Android Mentor** @ [Geeks](https://geeks.edu.kg/) _(December 2021 - June 2022)_ <br>
+In this role, I was entrusted with the following responsibilities:
+
+- **Stand-in Teaching**: Conducted lessons in the absence of the main teacher, ensuring continuity of learning for students.
+- **Android Development Instruction**: Taught the fundamentals of Android development, providing students with a solid foundation in the subject.
+- **Student Support**: Actively assisted students in their studies, offering guidance and support to help them overcome any learning hurdles.
+- **Project Leadership**: Served as the senior team leader for all students' graduation projects, guiding them through the process and providing necessary supervision. 
+ <br><br>
 
 ## 🏆 Awards
 
@@ -100,4 +114,4 @@ Kyrgyzstan _(September 2021 - Present)_ <br>
 ## 💬 Languages
 
 🇷🇺 **Russian**: Native speaker <br>
-🇬🇧 **English**: A1 <br>
+🇬🇧 **English**: A2 <br>
