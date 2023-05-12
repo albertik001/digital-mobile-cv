@@ -58,7 +58,7 @@ In my role at [GeekStudio](https://www.geekstudio.kg/), I made substantial contr
 
 These initiatives substantially improved the app's performance, user experience, and scalability, demonstrating my ability to drive impactful enhancements in complex projects.
 
-**[Karyshkyr](https://play.google.com/store/apps/details?id=com.geekstudio.karyshkyr)** is a mobile application that I developed from scratch, single-handedly, before its release on the Play Store. It features a collection of popular phrases and slang in the Kyrgyz language.
+**Project [Karyshkyr](https://play.google.com/store/apps/details?id=com.geekstudio.karyshkyr)** is a mobile application that I developed from scratch, single-handedly, before its release on the Play Store. It features a collection of popular phrases and slang in the Kyrgyz language.
 
 During the development of the Karyshkyr app, I utilized the following technologies and approaches:
 
