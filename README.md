@@ -47,6 +47,8 @@ Promoted to Assistant Team Lead in March 2023, I have assumed additional respons
 
 Technologies used: **Kotlin, Java, XML, MVVM, Gradle, Kotlin DSL (including Version Catalog), Modularization, Clean Architecture, Dagger-Hilt, Koin, Retrofit, OAuth 2.0, MaterialDesign, Navigation Component**.
 
+### Projects in GeekStudio
+
 **Key Project: [TezSat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)**
 
 In my role at [GeekStudio](https://www.geekstudio.kg/), I made substantial contributions to the TezSat project, implementing several key improvements:
@@ -73,6 +75,20 @@ During the development of the Karyshkyr app, I utilized the following technologi
 5. **Redesigned UI**: In one of the updates, I completely reimagined the app's design, rewriting it from scratch. This enhanced the visual experience for users and made the app more modern and appealing.
 
 These approaches and technologies employed in developing the Karyshkyr app resulted in a unique and functional application, capable of meeting user needs and delivering a seamless user experience.
+
+
+### AvangardStyle (Part-Time Contract, 2 Months)
+During a two-month contract at AvangardStyle, I developed an Android application for a construction company. Here are the key aspects of my work:
+
+**Transaction System Automation:** I developed an app that automated the transaction system, providing a reliable platform for managing payments. The app featured online utility bill payments, user bank card linking, and a notification system for payments.
+
+**Client Interaction:** Actively communicated with the client to understand their needs and address design and functionality issues of the application.
+
+**Collaboration with iOS Developer:** Collaborated successfully with an iOS developer to ensure a unified user experience.
+
+**Project Management:** This experience underscores my ability to successfully manage projects and facilitate collaboration between functional groups.
+
+These approaches and employed technologies allowed the creation of an effective app capable of satisfying the client's needs and ensuring a flawless user experience.
 
 **Android Mentor** @ [Geeks](https://geeks.edu.kg/) _(December 2021 - June 2022)_ <br>
 In this role, I was entrusted with the following responsibilities:
